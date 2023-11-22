@@ -5,9 +5,6 @@ Welcome to the Enraged Rabbit Project Github page!
 
 This project aims to bring multimaterial capabilities to 3D printers using a single Direct Drive toolhead. While this project is mainly dedicated to be used on VORON printers, it can also be used (or adapted) on any 3D printer that runs Klipper, and potentially RRF.
 
-You like this project? You want to support me and my work, help me bring new cool stuff to the community? Well you can tip me here :
-[![paypal](https://www.paypalobjects.com/en_US/FR/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=C9MG5LQSQRKN4&currency_code=EUR)
-
 ## Table of Content
 - [Changelog](#changelog)
 - [Showroom](#showroom)
@@ -16,8 +13,8 @@ You like this project? You want to support me and my work, help me bring new coo
 - [BOM](#bom)
 - [Acknowledgements](#acknowledgements)
 - [FAQ](https://github.com/EtteGit/EnragedRabbitProject/tree/main/Documentation/FAQ)
-  - [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
-  - [Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCF.md)
+- [Carrot Patch](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCP.md)
+- [Carrot Feeder](https://github.com/EtteGit/EnragedRabbitProject/blob/main/Documentation/FAQ/FAQ_ERCF.md)
  
 ## Changelog
 - **April 4th 2022 :** Minor fixes and updates, check the new last page of the manual for tuning the last check of the load sequence
